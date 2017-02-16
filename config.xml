@@ -1,0 +1,16 @@
+<Configuration>
+  <Form>
+	  <name>Confif Form</name>
+	  <width>250</width>
+	  <height>150</height>
+	  <RGBcolor>101,35,77</RGBcolor>
+  </Form>  
+  <button>
+	  <top>15</top>
+	  <left>25</left>
+      <name>Click me</name>
+	  <width>250</width>
+	  <height>150</height>
+	  <RGBcolor>1,99,177</RGBcolor>
+  </button>
+</Configuration>
